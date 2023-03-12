@@ -1,2 +1,2 @@
 # Simon-Game-Challenge
-A Challenge/Project to create a simple game
+View the game here: https://karmakos.github.io/Simon-Game-Challenge/
